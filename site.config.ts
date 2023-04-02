@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  QQ: '1484090413',
-  小红书: '小红书账号',
+  //QQ: '1484090413',
+  //小红书: '小红书账号',
   抖音: '抖音账号',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
